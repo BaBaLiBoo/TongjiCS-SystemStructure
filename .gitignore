@@ -1,0 +1,31 @@
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# 临时文件
+*.tmp
+*.bak
+*.log
+
+# 编译产物（如果需要）
+*.o
+*.obj
+*.exe
+*.out
+
+# 其他
+*.cache
+
